@@ -1,3 +1,3 @@
 # Hangman
-Play Hangman with your Command Line, written in Ruby.
+Play Hangman in your Command Line, written in Ruby.
 
